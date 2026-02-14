@@ -2,16 +2,16 @@
 
 #this script performs basic mathematical operations (+, -, *, /, %) between two numbers stored as variable
 
-number1=10
+num1=10
 
-number2=5
+num2=5
 
-echo "Summation of $number1 and $number2 is: $((number1 + number2))"
+echo "Summation of $num1 and $num2 is: $((num1 + num2))"
 
-echo "Subtraction of $number1 and $number2 is: $((number1 - number2))"
+echo "Subtraction of $num1 and $num2 is: $((num1 - num2))"
 
-echo "Multiplication of $number1 and $number2 is: $((number1 * number2))"
+echo "Multiplication of $num1 and $num2 is: $((num1 * num2))"
 
-echo "Division of $number1 and $number2 is: $((number1 / number2))"
+echo "Division of $num1 and $num2 is: $((num1 / num2))"
 
-echo "Modulas of $number1 and $number2 is: $((number1 % number2))"
+echo "Modulas of $num1 and $num2 is: $((num1 % num2))"
